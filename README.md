@@ -1,4 +1,15 @@
 ---
+# title: "MC整合包.风林火山"
+tags:
+  - "风林火山"
+  - "整合包"
+html:
+  toc: true
+toc:
+  depth_from: 1
+  depth_to: 6
+  ordered: false
+print_background: true
 ---
 
 
@@ -67,7 +78,7 @@
 |    开关灵活放置     |        F7         |    Tweakerge    |                                                                                |
 |      灵魂出窍       |   R_SHIFT + F7    |    Tweakerge    |                                                                                |
 |                     |                   |                 |                                                                                |
-|                     |       K + C       |   TweakerMore   |                                                                                |
+|    打开设置界面     |       K + C       |   TweakerMore   |                                                                                |
 |                     |                   |                 |                                                                                |
 |    minihud 配置     |       H + C       |     minihud     |                                                                                |
 |      HUD 切换       |         H         |     minihud     |                                                                                |
